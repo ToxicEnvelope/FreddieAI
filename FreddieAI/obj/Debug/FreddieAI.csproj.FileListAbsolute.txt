@@ -1,0 +1,9 @@
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\bin\Debug\FreddieAI.exe.config
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\obj\Debug\FreddieAI.csprojResolveAssemblyReference.cache
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\obj\Debug\FreddieAI.Form1.resources
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\obj\Debug\FreddieAI.Properties.Resources.resources
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\obj\Debug\FreddieAI.csproj.GenerateResource.Cache
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\bin\Debug\FreddieAI.exe
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\bin\Debug\FreddieAI.pdb
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\obj\Debug\FreddieAI.exe
+c:\users\yhoffman\documents\visual studio 2015\Projects\FreddieAI\FreddieAI\obj\Debug\FreddieAI.pdb
